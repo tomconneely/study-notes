@@ -22,3 +22,7 @@ They also require admin time (security, antivirus, etc)
 Same 4 apps but have 1 OS at the bottom
 Each app runs in its own container
 Containers are normally smaller and more efficient than hypervisor
+Benefits
+    Less space used for the same number of apps as hypervisor therefore can fit more apps on server
+    Apps typically start faster
+
