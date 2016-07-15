@@ -37,5 +37,6 @@
 ## Shortening PowerShell Commands
     Can use aliases to shorten commands
         import-module becomes ipmo
+    Parameters can be shortened
 
 ## Examples of PowerShell
