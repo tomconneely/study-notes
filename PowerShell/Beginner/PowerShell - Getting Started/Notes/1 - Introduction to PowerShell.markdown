@@ -29,3 +29,4 @@ Blog post on updating Windows 7 machine
 http://mikefrobbins.com/2015/01/08/how-to-check-the-powershell-version-and-install-a-new-version/
 
 RSAT = Remote Server Administrative Tools
+Can be downloaded for windows 8+
