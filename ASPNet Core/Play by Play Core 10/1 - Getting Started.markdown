@@ -13,3 +13,7 @@ Paste command into Terminal
 
 
 Need to restart the terminal window before dotnet new command is recognized
+
+##Creating a project
+
+npm install -g aspnet-generator
