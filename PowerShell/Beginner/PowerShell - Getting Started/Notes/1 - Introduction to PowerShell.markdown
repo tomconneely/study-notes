@@ -20,3 +20,12 @@ get-service
 get-service | where-object Status -eq 'Stopped' | export-csv c:/test/test.csv
 
 get-service | where-object Status -eq 'Stopped' | select-object Status,Name,Displayname | export-csv c:/test/test.csv
+
+## Demo Notes - Intro to PS Console
+Right click upper left corner and click on Properties to change appearance of window
+$PSVersionTable cmdlet to get details about PS installed in machine
+
+Blog post on updating Windows 7 machine
+http://mikefrobbins.com/2015/01/08/how-to-check-the-powershell-version-and-install-a-new-version/
+
+RSAT = Remote Server Administrative Tools
